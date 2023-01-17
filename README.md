@@ -199,7 +199,7 @@ Example:
 ```sh
 
 ``` -->
- -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,7 +229,7 @@ Example:
 
 
 
-- [ ] **personal portofolio**
+- [ ] **animations**
 - [ ] **customized homepage**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
