@@ -27,8 +27,8 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+  <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/> -->
 
   <h3><b>Microverse README Template</b></h3>
 
@@ -60,10 +60,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [your_project_name] <a name="about-project">Hello World</a>
 
 
-**[your_project__name]** is a...
+**[your_project__name]** is a Hello world project showing basic html layout.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -74,32 +74,32 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="">HTML and  CSS</a></li>
   </ul>
 </details>
 
-<details>
+<!-- <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://expressjs.com/">CSS</a></li>
   </ul>
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
-</details>
+</details> -->
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
-- **[customized homepage]**
-- **[animations ]**
+
+- **[html home page contains :"hello microverse"]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,37 +132,43 @@ Example command:
  gem install rails
 ```
  -->
+-Installation of Git
+-Installation of NPM
+-A working browser
+-Internet connection
+-A code editor like Visual Studio Code
+-Installation of Live Server plugging in -Visual Studio Code
+-Any other tool you can think about
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+
+
+  Use this command in cmd:
+  git clone https://github.com/alphym/hello_microverse_new.git
+
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
+use this link for setting up linter<i>https://github.com/microverseinc/linters-config/tree/master/html-css</i> and follow steps to install linters 
+-npm init -y
+-npm install --save-dev hint@7.x
+-npx hint .
+-npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+- npx stylelint "**/*.{css,scss}"
 
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project:
 
+1.Open your project and click to Go Live from the status bar to turn the server on/off. 
+2.Right click on a HTML file from your visual studio and click on Open with Live Server
 <!--
 Example command:
 
@@ -171,7 +177,7 @@ Example command:
 ```
 --->
 
-### Run tests
+<!-- ### Run tests
 
 To run tests, run the following command:
 
@@ -183,37 +189,37 @@ Example command:
 ```
 --->
 
-### Deployment
+<!-- ### Deployment
 
-You can deploy this project using:
+You can deploy this project using: -->
 
 <!--
 Example:
 
 ```sh
 
-```
+``` -->
  -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="Alphy"></a>
 
 
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
+👤 **Alphy**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+<!-- 👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -242,9 +248,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+
+If you like this project give me a ⭐️ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,9 +258,9 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+
+I would like to thank microverse and all my coding partners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -262,7 +268,7 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+
 
 - **[Question_1]**
 
