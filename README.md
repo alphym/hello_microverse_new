@@ -60,10 +60,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project">Hello World</a>
+# 📖 [Hello world] <a name="about-project"></a>
 
 
-**[your_project__name]** is a Hello world project showing basic html layout.
+**[Hello world]** is a  project showing basic html layout.
 
 ## 🛠 Built With <a name="built-with"></a>
 
